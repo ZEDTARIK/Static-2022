@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\bin\Debug\net6.0-windows\STATIC.exe
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\bin\Debug\net6.0-windows\STATIC.deps.json
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\bin\Debug\net6.0-windows\STATIC.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\bin\Debug\net6.0-windows\STATIC.dll
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\bin\Debug\net6.0-windows\ref\STATIC.dll
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\bin\Debug\net6.0-windows\STATIC.pdb
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.Form1.resources
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.dll
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\ref\STATIC.dll
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.pdb
+C:\Users\ASUS\Desktop\Projects\C#\STATIC\STATIC\obj\Debug\net6.0-windows\STATIC.genruntimeconfig.cache
